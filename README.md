@@ -1,5 +1,5 @@
-# Action after confirm payment on Wocommerce
-Snippet to start specific function after payment is confirmed on Woocommerce. In this example, after payment is comfirmed set the new value to user.
+# Action after confirm payment on WooCommerce
+Snippet to start specific function after payment is confirmed on WooCommerce. In this example, after payment is comfirmed set the new value to user.
 
 ```
 function checkPayment ($order_id) {
